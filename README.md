@@ -12,7 +12,7 @@ Ayşegül Ahsen KARA
 1 package baking powder: 1 paket kabartma tozu
 1 package vanilla extract: 1 paket vanilya
 2-3 cup of flour: 2-3 su bardağı un
-##Recipe / Tarif
+## Recipe / Tarif
 First, you should set the oven 180 degress. Than, add egg and sugar in a bowl and mix them. After that, add the oil and milk. Next, keep on mixing them. Add flour, baking powder and vanilla extract and stir well. Finally, bake the cake about 25-30 minutes.
 # Enjoy you meal
 ![Sade Kek](https://i1.wp.com/www.tarifdefteri.net/wp-content/uploads/2020/02/yogurtlu-sade-kek-3.jpg?resize=800%2C500&ssl=1)
