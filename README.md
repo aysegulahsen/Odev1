@@ -23,7 +23,7 @@ First, you should set the oven 180 degress. Than, add egg and sugar in a bowl an
 
 #### VÜCUT KÜTLE İNDEKSİ
 | AİLE BİREYLERİ | KÜTLE DEĞERİ(kg) | BOY UZUNLUĞU(M) | BEDEN KÜTLE İNDEKSİ(kg/m²) | SONUÇ |
-|ANNEM | 70 | 1.66 | 25.40 | FAZLA KİLOLU |
-|BABAM | 86 | 1.83 | 25.68 | FAZLA KİLOLU |
-|ABLAM | 47 | 1.64 | 17.47 | ZAYIF |
-|BEN | 49 | 1.65 | 17.99 | ZAYIF |
+| ANNEM | 70 | 1.66 | 25.40 | FAZLA KİLOLU |
+| BABAM | 86 | 1.83 | 25.68 | FAZLA KİLOLU |
+| ABLAM | 47 | 1.64 | 17.47 | ZAYIF |
+| BEN | 49 | 1.65 | 17.99 | ZAYIF |
