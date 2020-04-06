@@ -2,7 +2,7 @@
 ### Ayşegül Ahsen KARA
 ### 9-C 
 ### 201
-#### CAKE RECİPE
+# CAKE RECİPE
 ## Ingredients
 3 eggs: 3 yumurta
 1 cup of sugar: 1 su bardağı toz şeker
@@ -13,7 +13,7 @@
 2-3 cup of flour: 2-3 su bardağı un
 ## Recipe / Tarif
 First, you should set the oven 180 degress. Than, add egg and sugar in a bowl and mix them. After that, add the oil and milk. Next, keep on mixing them. Add flour, baking powder and vanilla extract and stir well. Finally, bake the cake about 25-30 minutes.
-# Enjoy you meal
+### Enjoy you meal
 ![Sade Kek](https://i1.wp.com/www.tarifdefteri.net/wp-content/uploads/2020/02/yogurtlu-sade-kek-3.jpg?resize=800%2C500&ssl=1)
 | SİZE | CALORI |
 |------|--------|
