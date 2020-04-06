@@ -1,8 +1,7 @@
-# aysegulahsen.34-gmail.com
-9Fizik
-Ayşegül Ahsen KARA
-9-C 
-201
+# 9Fizik
+### Ayşegül Ahsen KARA
+### 9-C 
+### 201
 #### CAKE RECİPE
 ## Ingredients
 3 eggs: 3 yumurta
